@@ -48,7 +48,7 @@ In addition a manifest file is required with below keys as the bare minimum. Cre
 }
 ```
 
-To load this, add `hello_state:` to your `configuration.yaml` file. 
+Once you have all the files in place, restart Home Asssistant to load your new integration and then add `hello_state:` to your `configuration.yaml` file to enable it.
 
 ## What the scaffold offers
 
